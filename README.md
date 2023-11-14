@@ -1,5 +1,3 @@
-# Portfolio
-
 ## Links to various pages
 
 ### Projects
